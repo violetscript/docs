@@ -53,6 +53,7 @@
     - [If Statement](./language_reference/stmt/if_statement.md)
     - [Do Statement](./language_reference/stmt/do_statement.md)
     - [While Statement](./language_reference/stmt/while_statement.md)
+    - [For Statement](./language_reference/stmt/for_statement.md)
     - [Break Statement](./language_reference/stmt/break_statement.md)
     - [Continue Statement](./language_reference/stmt/continue_statement.md)
     - [Return Statement](./language_reference/stmt/return_statement.md)

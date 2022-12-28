@@ -1,0 +1,1 @@
+mdbook build && @RD /S /Q "book/fonts" && mkdir "book/fonts" && robocopy "theme/fonts" "book/fonts" /s /e /np /nfl /ndl /njh /njs

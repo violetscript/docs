@@ -73,7 +73,7 @@
   - [Functions](./language_reference/functions.md)
   - [Destructuring](./language_reference/destructuring.md)
   - [Decorators](./language_reference/decorators.md)
-  - [Built-in Objects](./language_reference/builtin-objects.md)
+  - [Built-in Objects](./language_reference/builtin_objects.md)
 - [Compiler Guide](./compiler_guide/index.md)
   - [Bootstrapping](./compiler_guide/bootstrapping.md)
   - [Including and Excluding Sources](./compiler_guide/including_excluding.md)

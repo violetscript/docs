@@ -8,6 +8,9 @@ class C {
 	}
 }
 
+class F extends C implements I {
+}
+
 // generic class
 class G.<T> {
 }

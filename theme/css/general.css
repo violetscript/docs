@@ -215,8 +215,8 @@ kbd {
 
 @font-face {
   font-family: 'Verdana';
-  font-style: normal;
-  font-weight: italic;
+  font-style: italic;
+  font-weight: normal;
   src: url('verdana/verdanai.ttf') format('truetype');
 }
 

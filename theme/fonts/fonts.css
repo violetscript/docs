@@ -1,4 +1,3 @@
-/*
 @font-face {
   font-family: 'Verdana';
   font-style: normal;
@@ -26,7 +25,6 @@
   font-weight: bold;
   src: url('verdana/verdanaz.ttf') format('truetype');
 }
-*/
 
 @font-face {
   font-family: 'Courier New';

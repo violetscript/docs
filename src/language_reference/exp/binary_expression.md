@@ -1,6 +1,7 @@
 # Binary Expression
 
 ```
+k in o;
 x + y
 x - y
 x * y

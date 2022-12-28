@@ -24,6 +24,7 @@
     - [Record Types](./language_reference/types/record_types.md)
     - [Function Types](./language_reference/types/function_types.md)
     - [Type Parameters](./language_reference/types/type_parameters.md)
+    - [Type Aliasing](./language_reference/types/type_aliasing.md)
   - [Expressions](./language_reference/exp/index.md)
     - [Embed Expression](./language_reference/exp/embed.md)
     - [Await Expression](./language_reference/exp/await.md)

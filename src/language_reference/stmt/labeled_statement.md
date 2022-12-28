@@ -1,0 +1,6 @@
+# Labeled Statement
+
+```
+someLabel: for (;;) {
+}
+```

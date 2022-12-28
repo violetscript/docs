@@ -23,6 +23,7 @@
     - [Tuple Types](./language_reference/types/tuple_types.md)
     - [Record Types](./language_reference/types/record_types.md)
     - [Function Types](./language_reference/types/function_types.md)
+    - [Union Types](./language_reference/types/union_types.md)
     - [Type Parameters](./language_reference/types/type_parameters.md)
     - [Type Aliasing](./language_reference/types/type_aliasing.md)
   - [Expressions](./language_reference/exp/index.md)

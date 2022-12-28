@@ -65,7 +65,7 @@
     - [With Statement](./language_reference/stmt/with_statement.md)
     - [Use Namespace Directive](./language_reference/stmt/usens.md)
     - [Use Resource Statement](./language_reference/stmt/useres.md)
-  - [Lexical Structure](./lexical_structure.md)
+  - [Lexical Structure](./language_reference/lexical_structure.md)
   - [Packages](./language_reference/packages.md)
   - [Namespaces](./language_reference/ns.md)
   - [Variable Properties](./language_reference/variable_properties.md)

@@ -20,6 +20,9 @@ function fExpBody():String (
 // throws clause is used for documentation purposes
 function fThatThrows():void throws RangeError {
 }
+
+// native function
+native function fNative():void;
 ```
 
 ## Generators

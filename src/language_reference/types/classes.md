@@ -6,6 +6,11 @@ class C {
 	function C() {
 		super();
 	}
+
+	// override modifier
+	override function toString():String (
+		'violetscript'
+	);
 }
 
 class F extends C implements I {

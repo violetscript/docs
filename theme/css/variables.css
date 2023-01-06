@@ -14,10 +14,10 @@
 
 .ayu {
     --bg: #A0A0A0;
-    --fg: #404040;
+    --fg: #4c4c4c;
 
     --sidebar-bg: #A3A3A3;
-    --sidebar-fg: #494949;
+    --sidebar-fg: #535353;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;
@@ -54,10 +54,10 @@
 
 .coal {
     --bg: #A0A0A0;
-    --fg: #404040;
+    --fg: #4c4c4c;
 
     --sidebar-bg: #A3A3A3;
-    --sidebar-fg: #494949;
+    --sidebar-fg: #535353;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;
@@ -94,10 +94,10 @@
 
 .light {
     --bg: #A0A0A0;
-    --fg: #404040;
+    --fg: #4c4c4c;
 
     --sidebar-bg: #A3A3A3;
-    --sidebar-fg: #494949;
+    --sidebar-fg: #535353;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;
@@ -134,10 +134,10 @@
 
 .navy {
     --bg: #A0A0A0;
-    --fg: #404040;
+    --fg: #4c4c4c;
 
     --sidebar-bg: #A3A3A3;
-    --sidebar-fg: #494949;
+    --sidebar-fg: #535353;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;
@@ -174,10 +174,10 @@
 
 .rust {
     --bg: #A0A0A0;
-    --fg: #404040;
+    --fg: #4c4c4c;
 
     --sidebar-bg: #A3A3A3;
-    --sidebar-fg: #494949;
+    --sidebar-fg: #535353;
     --sidebar-non-existant: #505274;
     --sidebar-active: #2b79a2;
     --sidebar-spacer: #2d334f;

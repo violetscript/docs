@@ -1,7 +1,7 @@
 # Summary
 
 - [Language Overview](./language_overview/index.md)
-  - [Tutorial](./language_overview/tutorial/index.md)
+  - [Examples](./language_overview/tutorial/index.md)
     - [Hello World](./language_overview/tutorial/hello_world.md)
     - [Iteration](./language_overview/tutorial/iteration.md)
 - [Language Reference](./language_reference/index.md)

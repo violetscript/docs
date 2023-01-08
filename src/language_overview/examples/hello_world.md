@@ -1,6 +1,6 @@
 # Hello World
 
-Here is a basic Hello World program:
+Here is a program that prints a message "Hello, world!" to the console:
 
 ```
 trace('Hello, world!');

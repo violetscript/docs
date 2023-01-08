@@ -1,9 +1,9 @@
 # Summary
 
 - [Language Overview](./language_overview/index.md)
-  - [Examples](./language_overview/tutorial/index.md)
-    - [Hello World](./language_overview/tutorial/hello_world.md)
-    - [Iteration](./language_overview/tutorial/iteration.md)
+  - [Examples](./language_overview/examples/index.md)
+    - [Hello World](./language_overview/examples/hello_world.md)
+    - [Iteration](./language_overview/examples/iteration.md)
 - [Language Reference](./language_reference/index.md)
   - [Types](./language_reference/types/index.md)
     - [Nullability](./language_reference/types/nullability.md)
